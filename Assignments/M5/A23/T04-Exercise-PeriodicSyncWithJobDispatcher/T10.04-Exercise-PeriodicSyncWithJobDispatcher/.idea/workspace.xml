@@ -28,7 +28,7 @@
     <session id="-1499572708">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.opened" value="2" />
         </counts>
@@ -56,7 +56,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../A11/Exercise-IntentServices/T10.01-Exercise-IntentServices" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../A25/T10.05-Exercise-ChargingBroadcastReceiver" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
   </component>
   <component name="RunDashboard">
